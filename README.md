@@ -2,9 +2,13 @@
 
 Find a path from one word to another. A step is defined as an alteration of a single letter in the word that produces another valid word
 
-For example  `bat, man -> (bat, ban, man)`
+For example:
 
-Or a bit more intense `grouper, twister -> (grouper, grouser, grosser, grasser, glasser, classer, clasher, flasher, flasker, flanker, franker, tranker, thanker, thinker, thinner, twinner, twinter, twister)`
+    bat, man -> (bat, ban, man)
+
+Or a bit more intense:
+
+    grouper, twister -> (grouper, grouser, grosser, grasser, glasser, classer, clasher, flasher, flasker, flanker, franker, tranker, thanker, thinker, thinner, twinner, twinter, twister)
 
 Use any language that you'd like, but make sure you pay attention to code structure and clarity. We like Ruby, Coffeescript, Scala, Objective-C and Python, but if you use something else we'll figure it out.
 
