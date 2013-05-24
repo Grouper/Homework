@@ -6,7 +6,7 @@ For example:
 
     bat, man -> (bat, ban, man)
 
-Or a bit more intense:
+Or a bit more fun:
 
     grouper, twister -> (grouper, grouser, grosser, grasser, glasser, classer, clasher, flasher, flasker,
                          flanker, franker, tranker, thanker, thinker, thinner, twinner, twinter, twister)
