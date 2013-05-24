@@ -1,6 +1,6 @@
 ## Sneaking from Word to Word
 
-Find a path from one word to another. A step is defined as an alteration of a single letter in the word that produces another valid word
+_Find a path from one word to another. A step is defined as a change of a single letter in the word that produces another valid word._
 
 For example:
 
@@ -24,4 +24,4 @@ File.foreach('/usr/share/dict/words') {|w| $words << w.chomp.downcase}
 $words.include?("fish") # true
 ```
 
-For bonus points, get the shortest path.
+_For bonus points, find the shortest path._
