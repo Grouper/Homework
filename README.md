@@ -8,7 +8,8 @@ For example:
 
 Or a bit more intense:
 
-    grouper, twister -> (grouper, grouser, grosser, grasser, glasser, classer, clasher, flasher, flasker, flanker, franker, tranker, thanker, thinker, thinner, twinner, twinter, twister)
+    grouper, twister -> (grouper, grouser, grosser, grasser, glasser, classer, clasher, flasher, flasker,
+    flanker, franker, tranker, thanker, thinker, thinner, twinner, twinter, twister)
 
 Use any language that you'd like, but make sure you pay attention to code structure and clarity. We like Ruby, Coffeescript, Scala, Objective-C and Python, but if you use something else we'll figure it out.
 
