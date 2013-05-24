@@ -1,7 +1,6 @@
+## Sneaking from Word to Word
 
-## Distance Between Two Words
-
-Calculate a path from one word to another. A step is defined as an alteration of a single letter in the word that produces another valid word
+Find a path from one word to another. A step is defined as an alteration of a single letter in the word that produces another valid word
 
 For example  `bat, man -> (bat, ban, man)`
 
@@ -18,7 +17,6 @@ File.foreach('/usr/share/dict/words') {|w| $words << w.chomp.downcase}
 
 # Now you can look up if a word is in your dictionary
 $words.include?("fish") # true
-$words.include?("floosh") # false
 ```
 
 For bonus points, get the shortest path.
